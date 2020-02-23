@@ -1,6 +1,6 @@
 {
   "name": "react-native-track-player",
-  "version": "1.2.2",
+  "version": "1.2.10",
   "description": "A fully fledged audio module created for music apps",
   "contributors": [
     {
@@ -12,6 +12,11 @@
       "name": "Guilherme Chaguri",
       "email": "guichaguri@gmail.com",
       "url": "http://guichaguri.com"
+    },
+    {
+      "name": "Alex Yosef",
+      "email": "alex@quadio.com",
+      "url": "http://quadio.com"
     }
   ],
   "keywords": [
@@ -38,7 +43,6 @@
     "url": "https://github.com/react-native-kit/react-native-track-player/issues"
   },
   "scripts": {
-    "prepublishOnly": "git submodule update --init --recursive"
   },
   "peerDependencies": {
     "react": ">=16.8.6",

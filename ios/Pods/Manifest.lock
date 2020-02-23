@@ -1,0 +1,16 @@
+PODS:
+  - SwiftAudio (0.11.2)
+
+DEPENDENCIES:
+  - SwiftAudio
+
+SPEC REPOS:
+  trunk:
+    - SwiftAudio
+
+SPEC CHECKSUMS:
+  SwiftAudio: 217f5f184b27a0e25ff0fe7647021f05a21c06c9
+
+PODFILE CHECKSUM: 7a574d8051b6157157238e080bbcd80918ba0a8c
+
+COCOAPODS: 1.8.4
